@@ -95,7 +95,7 @@ flarum-tags:
       added_and_removed_tags_text: "{username} hozzáadta a(z) {tagsAdded} és eltávolította a(z) {tagsRemoved}."
       added_tags_text: "{username} hozzáadta a(z) {tagsAdded}."
       removed_tags_text: "{username} eltávolította a(z) {tagsRemoved}."
-      tags_text: "{tags} címke|{tags} címkék"
+      tags_text: "{tags} címkét|{tags} címkéket"
 
     # These translations are used when visiting a single tag's discussion list.
     tag:
